@@ -1,0 +1,5 @@
+Overall churn rate: 26.9%
+Month-to-month customers churn at 34.1%, vs 17.6% for Two year customers.
+New customers (0-12mo) churn at 38.7%, nearly 1.9x the rate of long-tenure customers (49-72mo) at 20.1%.
+Customers who churned paid $71.45/month on average, vs $68.18/month for those who stayed.
+Customers WITHOUT tech support churn at 28.5%, vs 23.2% for those with tech support.

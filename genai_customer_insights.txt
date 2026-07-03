@@ -1,0 +1,14 @@
+Customer 6174-DEJGG:
+This customer is highly susceptible to churn primarily due to their month-to-month contract, which offers no commitment, especially when coupled with them not having tech support, a key churn driver. To secure their loyalty, we recommend offering them a special bundle that includes complimentary tech support for a year, alongside a discount for signing a new 12-month service agreement.
+
+Customer 2985-BBBDB:
+This customer is at risk of churning primarily due to their one-year contract, which brings more frequent opportunities for them to consider switching providers. Their lack of tech support is also a significant concern, as it leaves them vulnerable to dissatisfaction should they encounter any service issues. To mitigate this, we should proactively reach out before their contract renews to offer an incentive for signing a new two-year agreement.
+
+Customer 2264-JGFEG:
+This customer is most likely at risk of churning due to their flexible month-to-month contract, which offers no long-term commitment and makes it easy for them to leave. The absence of tech support also means they may not feel fully supported if they encounter any service issues. We should offer an exclusive discount or a valuable service upgrade in exchange for signing up for a longer-term contract.
+
+Customer 0170-BCJHF:
+This customer is primarily at risk of churning because their month-to-month contract offers no long-term commitment and makes it very easy for them to switch providers, a risk compounded by their lack of tech support. We recommend proactively reaching out to offer an attractive bundled package or a discount for committing to a longer-term contract, which could also include valuable tech support.
+
+Customer 2266-IFFFB:
+This customer is likely at high risk of churning due to their flexible month-to-month contract and lack of tech support, which are key indicators in our churn model. We recommend proactively offering them an upgrade to a longer-term contract that includes tech support, perhaps with a small discount, to secure their commitment.

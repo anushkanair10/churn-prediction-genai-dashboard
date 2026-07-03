@@ -1,0 +1,5 @@
+[PASS] High-risk profile flagged as churn (predicted=1, prob=0.70)
+[PASS] Low-risk profile flagged as no-churn (predicted=0, prob=0.21)
+[PASS] Predicted probability is within [0,1] (prob=0.64)
+[PASS] Model is deterministic for identical input (run1=1, run2=1)
+[PASS] Model handles all-default input without crashing (no exception raised)

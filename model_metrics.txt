@@ -1,0 +1,25 @@
+Best model: Logistic Regression
+
+Logistic Regression:
+  accuracy: 0.616
+  precision: 0.377
+  recall: 0.653
+  f1: 0.478
+Random Forest:
+  accuracy: 0.649
+  precision: 0.384
+  recall: 0.495
+  f1: 0.432
+
+Confusion Matrix (Logistic Regression):
+[[620 409]
+ [132 248]]
+
+              precision    recall  f1-score   support
+
+    No Churn       0.82      0.60      0.70      1029
+       Churn       0.38      0.65      0.48       380
+
+    accuracy                           0.62      1409
+   macro avg       0.60      0.63      0.59      1409
+weighted avg       0.70      0.62      0.64      1409
